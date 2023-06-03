@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-bot link https://discord.gg/ahCr2bbe7w
+bot link https://discord.com/api/oauth2/authorize?client_id=1114470068403843133&permissions=8&scope=bot
